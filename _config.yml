@@ -8,43 +8,43 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sharmin Sultana Samu"
+title                    : "MD. Tanvir Ahmed Seum"
 title_separator          : "-"
-name                     : &name "Sharmin Sultana Samu"
+name                     : &name "MD. Tanvir Ahmed Seum"
 description              : &description "Personal Website"
-url                      : https://sharminsamu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://tanvir-ahmed32.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sharminsamu/sharminsamu.github.io"
+repository               : "tanvir-ahmed32/tanvir-ahmed32.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Samu_Profile_Pic1.jpg"
-  name             : "Sharmin Sultana Samu"
-  pronouns         : # example: "she/her"  
-  bio              : "Researcher || Learner"
-  location         : "Dhaka, Bangladesh"
+  avatar           : "Tanvir.jpeg"
+  name             : "MD. Tanvir Ahmed Seum"
+  pronouns         : # example: "he/him"  
+  bio              : "Student || Learner"
+  location         : "Rajshahi, Bangladesh"
   employer         : # 
   uri              : # 
-  email            : "sharminsamu130@gmail.com" 
+  email            : "tanvir.ruet32@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=xMbJTxIAAAAJ&hl=en&authuser=2"
+  googlescholar    : "https://scholar.google.com/citations?user=mIidMd0AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0001-8040-1263"
+  orcid            : "https://orcid.org/0009-0001-2070-8909"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Sharmin-Samu-2"
+  researchgate     : "https://www.researchgate.net/profile/Tanvir-Seum"
   scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=58930083200"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "sharminsamu"
+  github           : "tanvir-ahmed32"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "sharmin-samu"
+  linkedin         : "tanvir-ahmed32"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
