@@ -15,7 +15,7 @@ Duration: 2023 - 2027 <br/>
 
 <!-- HSC -->
 <span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px"><b><a href="https://srgc.edu.bd/" target="_blank">Sirajganj Govt. collage, Sirajganj</a></b></span><br/>
+<span style="color:black; font-size:20px"><b><a href="https://srgc.edu.bd/" target="_blank">Sirajganj Govt. College, Sirajganj</a></b></span><br/>
 Higher Secondary Certificate (HSC) <br/>
 Duration: 2019 - 2021 <br/>
 </span>
@@ -23,7 +23,7 @@ Duration: 2019 - 2021 <br/>
 
 <!-- SSC -->
 <span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px"><b><a href="https://www.blgovtschool.edu.bd/" target="_blank">BL Govt. Boys High School, Sirajganj</a></b></span><br/>
+<span style="color:black; font-size:20px"><b><a href="https://www.blgovtschool.edu.bd/" target="_blank">B.L. Govt. Boys High School, Sirajganj</a></b></span><br/>
 Secondary School Certificate (SSC) <br/>
 Duration: 2017 - 2019 <br/>
 </span>
