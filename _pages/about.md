@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align:justify; color:black; font-family:Georgia"> I am currently pursuing my undergraduation in EEE from RUET <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology</a>. My research focuses on developing trustworthy, ethical and human-centered AI systems that enhance collaboration between humans and intelligent technologies. My primary research interests include: 
+<p style="text-align:justify; color:black; font-family:Georgia"> I am currently pursuing my undergraduation in EEE from <a href="https://www.ruet.ac.bd/">Rajshahi University of Engineering & Technology (RUET)</a>. My research focuses on developing trustworthy, ethical and human-centered AI systems that enhance collaboration between humans and intelligent technologies. My primary research interests include: 
 </p>
 
 <p style="text-align:justify; color:black; font-family:Georgia">
